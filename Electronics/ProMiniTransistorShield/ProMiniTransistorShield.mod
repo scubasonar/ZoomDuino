@@ -1,0 +1,184 @@
+PCBNEW-LibModule-V1  11/1/2014 4:42:21 PM
+# encoding utf-8
+Units mm
+$INDEX
+Arduino Pro Mini
+$EndINDEX
+$MODULE Arduino Pro Mini
+Po 0 0 0 15 54556FD1 00000000 ~~
+Li Arduino Pro Mini
+Sc 0
+AR 
+Op 0 0 0
+T0 7.62 2.54 1 1 0 0.15 N V 21 N "Arduino Pro Mini"
+T1 -5.08 -27.94 1 1 0 0.15 N V 21 N "VAL**"
+$PAD
+Sh "13" C 1.5 1.5 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 -27.94
+$EndPAD
+$PAD
+Sh "24" C 1.5 1.5 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 0
+$EndPAD
+$PAD
+Sh "23" C 1.5 1.5 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 -2.54
+$EndPAD
+$PAD
+Sh "22" C 1.5 1.5 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 -5.08
+$EndPAD
+$PAD
+Sh "21" C 1.5 1.5 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 -7.62
+$EndPAD
+$PAD
+Sh "20" C 1.5 1.5 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 -10.16
+$EndPAD
+$PAD
+Sh "19" C 1.5 1.5 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 -12.7
+$EndPAD
+$PAD
+Sh "18" C 1.5 1.5 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 -15.24
+$EndPAD
+$PAD
+Sh "17" C 1.5 1.5 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 -17.78
+$EndPAD
+$PAD
+Sh "16" C 1.5 1.5 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 -20.32
+$EndPAD
+$PAD
+Sh "15" C 1.5 1.5 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 -22.86
+$EndPAD
+$PAD
+Sh "14" C 1.5 1.5 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 15.24 -25.4
+$EndPAD
+$PAD
+Sh "2" C 1.5 1.5 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -25.4
+$EndPAD
+$PAD
+Sh "3" C 1.5 1.5 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -22.86
+$EndPAD
+$PAD
+Sh "4" C 1.5 1.5 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -20.32
+$EndPAD
+$PAD
+Sh "5" C 1.5 1.5 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -17.78
+$EndPAD
+$PAD
+Sh "6" C 1.5 1.5 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -15.24
+$EndPAD
+$PAD
+Sh "7" C 1.5 1.5 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -12.7
+$EndPAD
+$PAD
+Sh "8" C 1.5 1.5 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -10.16
+$EndPAD
+$PAD
+Sh "9" C 1.5 1.5 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -7.62
+$EndPAD
+$PAD
+Sh "10" C 1.5 1.5 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -5.08
+$EndPAD
+$PAD
+Sh "11" C 1.5 1.5 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -2.54
+$EndPAD
+$PAD
+Sh "12" C 1.5 1.5 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "1" C 1.5 1.5 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -27.94
+$EndPAD
+$EndMODULE Arduino Pro Mini
+$EndLIBRARY
